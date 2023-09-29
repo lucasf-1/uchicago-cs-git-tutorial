@@ -1,1 +1,4 @@
-print("Lucas Frisancho cnet:lucasf")
+Lucas Frisancho
+lucasf
+Git tutorial
+Git pretty cool
